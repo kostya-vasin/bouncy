@@ -1,0 +1,58 @@
+  #map {
+     height: 439px;
+     width: 100%;
+     margin-bottom: 70px;
+  }
+
+
+  .logo-footer {
+     margin: 0 auto;
+     padding-bottom: 25px;
+  }
+
+  .copyright {
+     color: #81868e;
+     font-family: "Open Sans";
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 25px;
+     letter-spacing: 0.7px;
+     padding-bottom: 35px;
+  }
+
+  .social {
+     padding-bottom: 70px;
+  }
+
+
+  .social__item {
+     width: 26px;
+     height: 26px;
+     border-radius: 50%;
+     text-align: center;
+     padding-top: 5px;
+     color: white;
+     margin: 0 5px;
+
+  }
+
+  .social__item--1 {
+     background-color: #3b5998;
+  }
+
+  .social__item--2 {
+     background-color: #26a6d1;
+  }
+
+  .social__item--3 {
+     background-color: #0e76a8;
+     padding-top: 4px;
+  }
+
+  .social__item--4 {
+     background-color: #3f729b;
+  }
+
+  .social__item--5 {
+     background-color: #86c9ef;
+  }

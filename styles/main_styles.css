@@ -1,0 +1,11 @@
+body {
+   position: relative;
+   background-color: #f3f3f3;
+
+}
+
+.main_img {
+   position: absolute;
+   z-index: -1;
+   width: 100%;
+}

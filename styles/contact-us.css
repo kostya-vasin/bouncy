@@ -1,0 +1,44 @@
+.contact_us {
+   background-image: url(../img/contact-us-merged3.png);
+}
+
+.contact_us--title {
+   padding-top: 58px;
+   padding-bottom: 40px;
+   color: #ffffff;
+   font-family: "Open Sans";
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 25px;
+   letter-spacing: 0.8px;
+}
+
+.contact_us__btn {
+   padding-bottom: 45px;
+
+}
+
+.contact_us__btn a {
+
+   margin: 0 auto;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: center;
+   -ms-flex-pack: center;
+   justify-content: center;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   text-align: center;
+   color: white!important;
+   font-family: "Open Sans";
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 12px;
+   text-decoration: none;
+   width: 140px;
+   height: 37px;
+   border-radius: 19px;
+   border: 1px solid #ffffff;
+}
